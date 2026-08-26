@@ -35,7 +35,7 @@ Web based terminal secure remote terminal for Kali Linux with built-in Gemini AI
 ```bash
 pip install -r requirements.txt
 ```
-Or use a virtual environment (recommended on Kali):
+Or use a virtual environment   (recommended on Kali):
 ```bash
 python3 -m venv myenv
 source myenv/bin/activate
