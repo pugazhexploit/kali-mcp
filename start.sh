@@ -5,6 +5,9 @@ echo "Starting Kali MCP AI Remote Terminal..."
 # Get the directory of this script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
+
+
+
 # Start kali-server in the background
 echo "Starting Kali Tools API Server on port 5090..."
 $DIR/myenv/bin/python $DIR/kali-server.py &
