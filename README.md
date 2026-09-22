@@ -1,9 +1,3 @@
-# MCP AI Remote Terminal with Full System Control
-
-<p align="center">
-  <img src="mcplogo.png" </p>
-
-
 
 ## 🚀 Overview
 Web based terminal secure remote terminal for Kali Linux with built-in Gemini AI assistant and **full filesystem access**. Unlike basic remote tools, this provides AI-powered command suggestions, automatic script generation, and cybersecurity tool execution with persistent session management.
