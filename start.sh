@@ -10,8 +10,13 @@ echo "Starting Kali Tools API Server on port 5090..."
 $DIR/myenv/bin/python $DIR/kali-server.py &
 KALI_PID=$!
 
-  # Give it a moment to start
-  sleep 2
+ 
+ 
+ # Give it a moment to start
+sleep 2
+
+
+
 
 # Start the main server
 echo "Starting MCP AI Server on port 5070..."
