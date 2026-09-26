@@ -1,4 +1,4 @@
-  # MCP AI Remote Terminal with Full System Control
+  # MCP AI Remote Terminal with Full System Control 
 
 <p align="center">
   <img src="mcplogo.png" </p>
